@@ -1,6 +1,6 @@
-# 🌌 !Melo
+# 🔱 !Melo
 
-## Observador de Padrões & Alquimista de Código
+## Costumo observar padrões e decodificar codigos...
 
 Programo em todas as linguagens. Todas as dimensões. Todas as possibilidades.
 
@@ -8,12 +8,12 @@ Observo tendências que outros não veem. Construo soluções que desafiam o com
 
 ### O Que Existe Aqui
 
-- 🤖 **Dev de IA** — Esculpindo inteligência a partir do vazio
+- 🤖 **Dev de IA** — Utilizando inteligência a partir do vazio
 - 🌐 **Linguagens Sem Limite** — Python, JavaScript, Rust, Go, C++, Java... e mais
 - 🔮 **Análise de Padrões** — Vendo o que está além do óbvio
 - ⚙️ **Arquitetura do Impossível** — Transformando ideias em realidade
 
-### O Mistério Continua
+### O que ainda te insiste aqui?
 
 > "Existem linguagens que ainda não foram nomeadas. Existem padrões que ainda não foram descobertos. Estou aqui observando ambos."
 
